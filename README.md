@@ -7,7 +7,7 @@
 <h2 align="center">A Enthusiastic Full Stack Developer!!</h2>
 
   <img src="https://github.com/Riya-Panhotra/Riya-Panhotra/blob/main/image/Developer.gif?raw=true" width="1000px"> 
-<p align="left"> <a href="https://twitter.com/pragatikri31" target="blank"><img src="https://img.shields.io/twitter/follow/pragatikri31?logo=twitter&style=for-the-badge" alt="pragatikri31" /></a> 
+<p align="left"> <a href="https://twitter.com/satishsenme" target="blank"><img src="https://img.shields.io/twitter/follow/satishsenme?logo=twitter&style=for-the-badge" alt="satishsenme" /></a> 
   
  </p>
  
